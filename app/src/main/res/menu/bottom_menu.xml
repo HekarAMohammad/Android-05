@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<item android:title="Home"
+    android:id="@+id/home"
+    android:icon="@drawable/ico_home"></item>
+
+    <item android:title="BMI calculator"
+        android:id="@+id/fav"
+        android:icon="@drawable/ivo_add"></item>
+
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/ico_prof"></item>
+</menu>
